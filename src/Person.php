@@ -1,5 +1,5 @@
 <?php
-namespace PhpBook;
+namespace PhpBook\src;
 class Person
 {
     private $name = 'taro';

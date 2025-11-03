@@ -1,0 +1,11 @@
+{
+    "name": "hidenari/composer-test",
+    "description": "test sample",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Hidenari\\ComposerTest\\": "src/"
+        }
+    },
+    "require": {}
+}
